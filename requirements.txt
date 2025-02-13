@@ -1,0 +1,7 @@
+pandas
+ib_insync
+scikit-learn
+matplotlib
+quantstats
+numpy
+IPython
